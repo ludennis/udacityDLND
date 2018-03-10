@@ -1,0 +1,6 @@
+*.DS_Store
+*.pem
+*.ipynb_checkpoints
+proj-2/dog-project/images
+proj-2/dog-project/lfw
+proj-2/dog-project/bottleneck_features/
