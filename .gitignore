@@ -6,3 +6,4 @@ lfw/
 flower_photos/
 *.npz
 *.hdf5
+*__pycache__*
