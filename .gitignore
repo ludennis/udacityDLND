@@ -5,3 +5,4 @@ dogImages/
 lfw/
 flower_photos/
 *.npz
+*.hdf5
