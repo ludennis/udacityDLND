@@ -7,3 +7,5 @@ flower_photos/
 *.npz
 *.hdf5
 *__pycache__*
+*.jpg
+*.ckpt
